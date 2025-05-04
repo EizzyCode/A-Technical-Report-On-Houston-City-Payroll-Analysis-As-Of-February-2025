@@ -1,11 +1,11 @@
-**# INSIDE HOUSTON’S WORKFORCE: KEY GAPS, TRENDS, AND OPPORTUNITIES FOR A MORE INCLUSIVE FUTURE**
+# INSIDE HOUSTON’S WORKFORCE: KEY GAPS, TRENDS, AND OPPORTUNITIES FOR A MORE INCLUSIVE FUTURE
 
 ![image](https://github.com/user-attachments/assets/665104cf-e2f4-4ccd-9493-2ff5914f5003)
 
-**## ABOUT THE PROJECT**
+## ABOUT THE PROJECT
 This project analyzes workforce data from the City of Houston to uncover trends in employee demographics, hiring patterns, departmental staffing, and salary distribution. By visualizing and interpreting key metrics, the project aims to highlight disparities, operational strengths, and areas for strategic improvement. The ultimate goal is to support data-driven decisions that promote inclusivity, efficiency, and long-term workforce planning.
 
-**## PROJECT OVERVIEW**
+## PROJECT OVERVIEW
 
 This project aims to highlight the following:
 
@@ -15,7 +15,7 @@ This project aims to highlight the following:
 *** Inform Strategic Workforce Planning:** Provide data insights for future workforce decisions.
 *** Empower Stakeholders:** Offer a clear overview of Houston City’s workforce composition.
 
-**## DATASET OVERVIEW**
+## DATASET OVERVIEW
 The dataset for this project was sourced from the City of Houston, Texas Open Data Site, and it contains detailed entries of employee details, which include:
 
 * Gender
@@ -24,15 +24,15 @@ The dataset for this project was sourced from the City of Houston, Texas Open Da
 * Category
 * Gross Pay
 
-**# Dataset:** _**https://data.houstontx.gov/dataset/payroll/resource/34b676df-4ff1-412a-b8d0-83eda0306388**_
+# Dataset: _**https://data.houstontx.gov/dataset/payroll/resource/34b676df-4ff1-412a-b8d0-83eda0306388**_
 
-**## TOOL USED**
+## TOOL USED
 Excel was the only tool used for this project, and I used it for Data Cleaning, Analysis, creating Charts, and Dashboard.
 
-**## DATA CLEANING**
+## DATA CLEANING
 The dataset was already cleaned; I just had to remove some unnecessary columns and do a few calculations, like Average pay and Average age.
 
-**## PRE ANALAYSIS**
+## PRE ANALAYSIS
 Before building the charts, I conducted a pre-analysis to better understand the dataset and guide my storytelling process. This involved breaking down the data into meaningful components:
 *** Project Split:** I categorized the data points into dependent and independent variables, helping me understand the relationships within the dataset and what types of insights could be extracted.
 *** Potential Analysis & Questions:** From the grouped variables, I generated key questions that the dataset could answer. This step highlighted the potential insights hidden within the data, even before visualizing it.
@@ -40,16 +40,16 @@ Before building the charts, I conducted a pre-analysis to better understand the 
 *** Storytelling:** Once I had a clear understanding of the dataset, I could tell a story from it. By putting together, the relationships between the datapoints and the insights uncovered.
 *** Industry & Stakeholders:** This process helped me identify the relevant industry, the stakeholders who would benefit from the analysis, and what success would look like for the organization based on the findings.
 
-**## ANALYSIS OF THE CHART**
+## ANALYSIS OF THE CHART
 Once I was done with my Pre-Analysis, I started creating my charts. Here is the Analysis for each chart.
 
-**# Department With The Most Staff**
+# Department With The Most Staff
 
 ![image](https://github.com/user-attachments/assets/57b66137-96a6-47e1-8f7f-d7a3a8d4ea03)
 
 Police staffing dominates at 6,964, significantly dominating all other departments. Fire (4,024) and Houston Public Works (3,983) are the next largest, critical to the city’s safety and infrastructure. The sharp drop to departments like the Airport System (1,408) and Health & Human Services (1,235) reflects a smaller distribution beyond frontline services. The 6,400+ gap between Police and Library (518) reveals potential resourcing imbalances and opportunities for strengthening civic services. Police, Fire, and Public Works collectively lead in staffing, and for good reason. These departments form the backbone of public safety and city functionality.
 
-**# Most Employed Gender**
+# Most Employed Gender
 
 ![image](https://github.com/user-attachments/assets/62126a2b-c389-4a4d-bfa4-f78f0da05c0d)
 
