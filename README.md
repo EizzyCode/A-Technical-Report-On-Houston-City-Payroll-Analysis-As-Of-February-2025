@@ -9,11 +9,11 @@ This project analyzes workforce data from the City of Houston to uncover trends 
 
 This project aims to highlight the following:
 
-*** Understand Workforce Demographics:** Analyze employee race, age, and gender distribution.
-*** Identify Hiring Trends:** Pinpoint peak hiring months and overall employee count.
-*** Highlight Departmental Structures:** Uncover staffing and payroll distribution across departments.
-*** Inform Strategic Workforce Planning:** Provide data insights for future workforce decisions.
-*** Empower Stakeholders:** Offer a clear overview of Houston City’s workforce composition.
+* Understand Workforce Demographics: Analyze employee race, age, and gender distribution.
+* Identify Hiring Trends: Pinpoint peak hiring months and overall employee count.
+* Highlight Departmental Structures: Uncover staffing and payroll distribution across departments.
+* Inform Strategic Workforce Planning: Provide data insights for future workforce decisions.
+* Empower Stakeholders: Offer a clear overview of Houston City’s workforce composition.
 
 ## DATASET OVERVIEW
 The dataset for this project was sourced from the City of Houston, Texas Open Data Site, and it contains detailed entries of employee details, which include:
