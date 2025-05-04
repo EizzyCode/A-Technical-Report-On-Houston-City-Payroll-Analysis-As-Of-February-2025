@@ -44,43 +44,43 @@ Before building the charts, I conducted a pre-analysis to better understand the 
 ## ANALYSIS OF THE CHART
 Once I was done with my Pre-Analysis, I started creating my charts. Here is the Analysis for each chart.
 
-# Department With The Most Staff
+### Department With The Most Staff
 
 ![image](https://github.com/user-attachments/assets/57b66137-96a6-47e1-8f7f-d7a3a8d4ea03)
 
 Police staffing dominates at 6,964, significantly dominating all other departments. Fire (4,024) and Houston Public Works (3,983) are the next largest, critical to the city’s safety and infrastructure. The sharp drop to departments like the Airport System (1,408) and Health & Human Services (1,235) reflects a smaller distribution beyond frontline services. The 6,400+ gap between Police and Library (518) reveals potential resourcing imbalances and opportunities for strengthening civic services. Police, Fire, and Public Works collectively lead in staffing, and for good reason. These departments form the backbone of public safety and city functionality.
 
-# Most Employed Gender
+### Most Employed Gender
 
 ![image](https://github.com/user-attachments/assets/62126a2b-c389-4a4d-bfa4-f78f0da05c0d)
 
 The city’s workforce is predominantly male, with men making up over two-thirds of all employees (15,493 vs. 6,877 females). This noticeable gap may reflect the staffing patterns in male-dominated departments like Police and Fire, which have the largest headcounts. The disparity highlights an opportunity for more inclusive hiring strategies to balance gender representation across departments.
 
-# Top Earners By Department
+### Top Earners By Department
 
 ![image](https://github.com/user-attachments/assets/89156d4f-ab25-49b0-9ffb-a08d36dbf5db)
 
 When it comes to the highest earners in the city, public safety and core services take the lead. The Fire Department tops the list with an impressive $388,939 salary, followed closely by Legal and the Houston Airport System. The Mayor’s Office, Police, and Public Works round out the top earners, each reflecting the city’s investment in essential functions from emergency response and legal oversight to transportation, leadership, and infrastructure. These figures highlight how the city prioritizes roles that directly impact safety, stability, and daily operations.
 
-# Hiring Peaks By Month
+### Hiring Peaks By Month
 
 ![image](https://github.com/user-attachments/assets/18c48ddc-a52b-4edc-aa23-0783f2da7b19)
 
 Looking at the Hiring by Houston City, a really interesting pattern is spotted. It seems like January is by far the biggest month for hiring, with a massive spike of 7107 new hires compared to the rest of the year. After that initial rush, there’s a significant drop in hiring in February, down to just 1240 new hires. Throughout the rest of the year, the hiring numbers fluctuate a bit, but they generally stay within a narrower range, with a noticeable slump in May with just 789 new hires, which happen to be the month with the least hires, then a bump up around June 1782, new hires, and then another increase towards December 1697, new hires. This suggests that the beginning of the year is a key time for new hires, possibly related to budget cycles or the start of new initiatives.
 
-# Count of Employment Type
+### Count of Employment Type
 
 ![image](https://github.com/user-attachments/assets/bfe6ee65-a1ba-45ba-bf4e-fe1b5bcd36e9)
 
 This chart shows the distribution of employment categories within Houston City. A significant majority of the workforce, constituting 92.12%, are classified as full-time workers. The Temporary employment category represents 4.14% of the total. Part-time positions account for 3.48%, while the Part Time 30 category (employees who work part time and for only 30 hours per week) comprises a minimal 0.26%. This data indicates a strong dominance of full-time employment within the Houston City workforce.
 
-# Count of Employee Age Group
+### Count of Employee Age Group
 
 ![image](https://github.com/user-attachments/assets/14ea1813-4052-4641-81de-03f08ef6d80f)
 
 The city’s workforce is predominantly middle-aged, with individuals between 38 and 57 years old making up nearly half of the total population (11,350 out of 22,370). This concentration suggests a mature workforce likely holding many leadership or experienced roles. In contrast, younger adults aged 18–27 are significantly underrepresented (only 1,597 individuals), indicating potential challenges in attracting or retaining younger talent. As older age groups (68+) make up less than 3% of the workforce, succession planning and knowledge transfer will be essential to maintain organizational stability over time.
 
-# Employee Count By Race
+### Employee Count By Race
 
 ![image](https://github.com/user-attachments/assets/e5c47240-88b3-4974-b556-8492af7dbfc1)
 
@@ -95,7 +95,7 @@ The city’s workforce shows notable racial diversity. Black employees constitut
 * The Fire Department leads with a total payroll of $388,939, followed by the Legal Department ($340,000), Houston Airport System ($335,000), and the Mayor’s Office ($328,016). Police and Houston Public Works each report joint payrolls of $325,000.
 * The Police Department employs the most staff (6,964), followed by the Fire Department (4,024) and Houston Public Works (3,983). Departments such as Airport System (1,408), Health & Human Services (1,235), Parks & Recreation (744), and Library (518) have smaller staffing levels.
 
-# Key Insights
+### Key Insights
 
 * Male employees make up 69% of the workforce.
 * The Fire Department, despite having fewer staff than the Police, has the highest payroll.
