@@ -24,7 +24,8 @@ The dataset for this project was sourced from the City of Houston, Texas Open Da
 * Category
 * Gross Pay
 
-# Dataset: _**https://data.houstontx.gov/dataset/payroll/resource/34b676df-4ff1-412a-b8d0-83eda0306388**_
+# Dataset
+_**https://data.houstontx.gov/dataset/payroll/resource/34b676df-4ff1-412a-b8d0-83eda0306388**_
 
 ## TOOL USED
 Excel was the only tool used for this project, and I used it for Data Cleaning, Analysis, creating Charts, and Dashboard.
@@ -79,7 +80,7 @@ This chart shows the distribution of employment categories within Houston City. 
 
 The city’s workforce is predominantly middle-aged, with individuals between 38 and 57 years old making up nearly half of the total population (11,350 out of 22,370). This concentration suggests a mature workforce likely holding many leadership or experienced roles. In contrast, younger adults aged 18–27 are significantly underrepresented (only 1,597 individuals), indicating potential challenges in attracting or retaining younger talent. As older age groups (68+) make up less than 3% of the workforce, succession planning and knowledge transfer will be essential to maintain organizational stability over time.
 
-**Employee Count By Race**
+# Employee Count By Race
 
 ![image](https://github.com/user-attachments/assets/e5c47240-88b3-4974-b556-8492af7dbfc1)
 
