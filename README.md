@@ -1,0 +1,2 @@
+# A-Technical-Report-On-Houston-City-Payroll-Analysis-As-Of-February-2025
+This report explores key trends and patterns within the City of Houston’s workforce, offering insights into employee demographics, hiring cycles, departmental structures, and compensation. The goal is to highlight areas of strength, identify gaps, and suggest strategic opportunities for a more inclusive, balanced, and future-ready public workforce.
